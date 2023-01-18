@@ -1,0 +1,5 @@
+https://python-docx.readthedocs.io/en/latest/ - docx.Documentation
+
+https://www.youtube.com/watch?v=so2illANiRw - docx.Module explained
+
+https://www.youtube.com/watch?v=DVRQoVRzMIY&t=1807s -git and github Tutotrial
